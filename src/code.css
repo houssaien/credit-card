@@ -1,0 +1,67 @@
+.serie-card{
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    color: gold;
+}
+
+.flex-container{
+    display: flex;
+  
+   justify-content: space-between;
+    
+    font-size: 20px;
+}
+
+.flex-container2{
+    display: flex;
+  
+    margin-bottom: 15px;
+     
+     font-size: 20px;
+}
+
+.flex-container1{
+    display: flex;
+  
+  
+}
+.text3{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.serie-code{
+  
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.visa-img{
+    width: 110px;
+    height: 90px;
+    
+   
+}
+
+.serie-code{
+   
+    text-align: left;
+    color: white;
+    font-size: 30px;
+   
+    
+}
+
+.serie-code2{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text1{
+    color: white;
+    font-size: 10px;
+}
